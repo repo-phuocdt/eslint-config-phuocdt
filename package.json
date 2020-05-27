@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config-phuocdt",
+  "version": "1.0.0",
+  "description": "ESLint shareable config based on JavaScript convention at phuocdt",
+  "author": "@phuocdt",
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/repository-phuocdt/eslint-config-phuocdt"
+  },
+  "engines": {
+    "node": ">=10.12.0"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-config",
+    "shareable-configs",
+    "linter"
+  ],
+  "scripts": {
+    "lint": "eslint .",
+    "test": "npm run lint && tape test/start.js | tap-spec"
+  },
+  "devDependencies": {
+    "bellajs": "9.x.x",
+    "eslint": "7.x.x",
+    "tap-spec": "5.x.x",
+    "tape": "5.x.x"
+  }
+}
