@@ -1,13 +1,13 @@
 {
   "name": "eslint-config-phuocdt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint shareable config based on JavaScript convention at phuocdt",
   "author": "@phuocdt",
   "license": "MIT",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/repository-phuocdt/eslint-config-phuocdt"
+    "url": "https://github.com/repo-phuocdt/eslint-config-phuocdt"
   },
   "engines": {
     "node": ">=10.12.0"
