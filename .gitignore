@@ -1,0 +1,15 @@
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# editor
+/.vscode
+
+# misc
+.DS_Store
+
+yarn-debug.log*
+yarn-error.log*
+yarn.lock*
