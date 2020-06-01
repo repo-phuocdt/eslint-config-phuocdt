@@ -69,7 +69,7 @@ You will often want to add the commands to package.json, here is a sample:
   "version": "0.0.1",
   "description": "A sample for using eslint and eslint-config-phuocdt",
   "engines": {
-    "node": ">= 10.12.0"
+    "node": ">= 10.15.0"
   },
   "scripts": {
     "lint": "eslint ./src"
@@ -82,7 +82,7 @@ You will often want to add the commands to package.json, here is a sample:
 }
 ```
 
-As you can see, we need 2 packages "eslint" and "eslint-config-ggc". After installing them with "npm install", you can check your convention with "npm run lint" command.
+As you can see, we need 2 packages "eslint" and "eslint-config-phuocdt". After installing them with "npm install", you can check your convention with "npm run lint" command.
 
 # References:
 
