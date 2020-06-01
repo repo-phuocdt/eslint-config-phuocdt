@@ -2,7 +2,7 @@
 ESLint shareable config based on JavaScript convention at phuocdt
 
 [![NPM](https://badge.fury.io/js/eslint-config-phuocdt.svg)](https://badge.fury.io/js/eslint-config-phuocdt)
-[![Build Status](https://travis-ci.org/greenglobal/eslint-config-phuocdt.svg?branch=master)](https://travis-ci.org/greenglobal/eslint-config-phuocdt)
+[![Build Status](https://travis-ci.org/repo-phuocdt/eslint-config-phuocdt.svg?branch=master)](https://travis-ci.org/repo-phuocdt/eslint-config-phuocdt)
 
 # Usage
 
@@ -25,6 +25,7 @@ or
 {
   "extends": "phuocdt"
 }
+```
 
 That's all. It will works.
 
@@ -79,7 +80,6 @@ You will often want to add the commands to package.json, here is a sample:
   },
   "license": "MIT"
 }
-
 ```
 
 As you can see, we need 2 packages "eslint" and "eslint-config-ggc". After installing them with "npm install", you can check your convention with "npm run lint" command.

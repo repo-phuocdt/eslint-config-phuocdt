@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-phuocdt",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "ESLint shareable config based on JavaScript convention at phuocdt",
   "author": "@phuocdt",
   "license": "MIT",
