@@ -52,7 +52,7 @@ Sometimes [the rules we shared](https://github.com/repo-phuocdt/eslint-config-ph
 
   "extends": "eslint-config-phuocdt",
 
-  rules: {
+  "rules": {
     "fp/no-arguments": "error",
     "fp/no-class": "error",
     "max-lines": 400,
